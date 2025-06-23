@@ -1,8 +1,4 @@
-All right, here's a `README.md` file you can use for your GitHub repository for Task 1.
-
------
-
-# Task 1: E-commerce Database Schema Design
+**E-commerce Database Schema Design**
 
 -----
 
